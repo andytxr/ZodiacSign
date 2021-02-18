@@ -1,0 +1,49 @@
+body{
+	text-align: center;
+	background-image:url(../_imagens/librawp.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+}
+p{
+	font-family: colonna MT;
+	color:antiquewhite;
+	font-size: 18px;	
+}
+#librap1{
+	border: solid;
+	border-color: navajowhite;
+	width: 500px;
+	height: 500px;
+	float: left;
+}
+#librap2{
+	border: solid;
+	border-color: navajowhite;
+	width: 500px;
+	height: 500px;
+	float: right;
+}
+h2{
+	border: groove;
+	border-color: whitesmoke;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+a{
+	text-decoration: underline;
+	color:greenyellow;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	
+}
+h1{
+	border: double;
+	border-color: forestgreen;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: aliceblue;
+}
+p-1{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	color:mediumseagreen;	
+}

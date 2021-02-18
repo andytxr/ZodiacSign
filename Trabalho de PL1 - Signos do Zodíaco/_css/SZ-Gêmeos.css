@@ -1,0 +1,50 @@
+body{
+	text-align: center;
+	background-image:url(../_imagens/gemeoswp.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+}
+p{
+	font-family: colonna MT;
+	color: seagreen;
+	font-size: 18px;	
+}
+#gemeosp1{
+	border: solid;
+	border-color: darkolivegreen;
+	width: 500px;
+	height: 500px;
+	float: left;
+}
+#gemeosp2{
+	border: solid;
+	border-color:darkolivegreen;
+	width: 500px;
+	height: 500px;
+	float: right;
+}
+h2{
+	border: groove;
+	border-color: darkgreen;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+a{
+	text-decoration: underline;
+	color:palegreen;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	
+}
+h1{
+	border: double;
+	border-color: forestgreen;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: aliceblue;
+}
+p-1{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	color:lightgreen;	
+}
+

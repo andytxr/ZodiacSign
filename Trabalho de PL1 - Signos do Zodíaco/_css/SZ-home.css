@@ -1,0 +1,54 @@
+body{
+	text-align: center;
+	background: url(../_imagens/astrologia-gnosisonline-1.jpg);
+	background-size:100% 100%;
+	-webkit-background-size: 100% 100%;
+	-o-background-size: 100% 100%;
+	-khtml-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;	
+}
+h1{
+	border: double;
+	border-color:mediumpurple;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+h2{
+	border: groove;
+	border-color: rebeccapurple;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+p-1{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	color:violet;
+}
+#tabela{
+	width: 500px;
+	height: 400px;
+	float: right;
+	
+}
+ul{
+	list-style-type: none;
+}
+#tabela2{
+	width: 1000px;
+	height: 500px;
+	float: center;
+		
+}
+li{
+	border: groove;
+	border-color: lightpink;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 20px;
+	
+}
+a{
+	text-decoration: none;
+	color:hotpink;
+}
+p{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color:fuchsia;
+}

@@ -1,0 +1,53 @@
+body{
+	background-image:url(../_imagens/capriwp.jpg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	text-align: center;
+	
+}
+p{
+	font-family: colonna MT;
+	color: red;
+	font-size: 18px;	
+}
+#caprip1{
+	border: solid;
+	border-color: burlywood;
+	width: 480px;
+	height: 500px;
+	float: left;
+}
+#caprip2{
+	border: solid;
+	border-color: burlywood;
+	width: 480px;
+	height: 500px;
+	float: right;
+}
+h2{
+	border: groove;
+	border-color: indianred;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:lightgray;
+}
+a{
+	text-decoration: underline;
+	color:antiquewhite;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	
+}
+h1{
+	border: double;
+	border-color: snow;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: aliceblue;
+}
+p-1{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 14px;
+	color:wheat;
+	text-align: justify;
+	
+}

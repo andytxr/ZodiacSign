@@ -1,0 +1,49 @@
+body{
+	text-align: center;
+	background-image:url(../_imagens/leaowp.png);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+}
+p{
+	font-family: colonna MT;
+	color: darkgray;
+	font-size: 18px;	
+}
+#leaop1{
+	border: solid;
+	border-color: navajowhite;
+	width: 500px;
+	height: 500px;
+	float: left;
+}
+#leaop2{
+	border: solid;
+	border-color: navajowhite;
+	width: 500px;
+	height: 500px;
+	float: right;
+}
+h2{
+	border: groove;
+	border-color: antiquewhite;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+a{
+	text-decoration: underline;
+	color:papayawhip;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	
+}
+h1{
+	border: double;
+	border-color: antiquewhite;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: aliceblue
+}
+p-1{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	color:yellow;	
+}

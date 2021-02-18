@@ -1,0 +1,58 @@
+body{
+	text-align: center;
+	background-image: url(../_imagens/aquariowp.jpeg.jpg);
+	background-position: center;
+	background-size:100% 100%;
+	-webkit-background-size: 100% 100%;
+	-o-background-size: 100% 100%;
+	-khtml-background-size: 100% 100%;
+	-moz-background-size: 100% 100%;	
+}
+p{
+	font-family: colonna MT;
+	color: pink;
+	font-size: 18px;	
+}
+#aquariop1{
+	border: solid;
+	border-color: mediumorchid;
+	width: 500px;
+	height: 500px;
+	float: left;
+}
+#aquariop2{
+	border: solid;
+	border-color: mediumorchid;
+	width: 500px;
+	height: 500px;
+	float: right;
+}
+h2{
+	border: groove;
+	border-color:rebeccapurple;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:antiquewhite;
+}
+a{
+	text-decoration: underline;
+	color: goldenrod;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	
+}
+h1{
+	border: double;
+	border-color: deeppink;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: aliceblue;
+}
+p-1{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	color:plum;	
+}
+a{
+	color: fuchsia;
+}
+
+
